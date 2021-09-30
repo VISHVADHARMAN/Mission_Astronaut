@@ -138,7 +138,7 @@ function draw(){
             gameOverSound.play();
         }
 
-        if(distance === 100){
+        if(distance === 5000){
             gameState = WIN;
         }
         
